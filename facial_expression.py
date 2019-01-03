@@ -10,7 +10,7 @@ from threading import Timer
 
 def initialize():
     """
-    Initializing the dlib functions used throughtout the program
+    Initializing the dlib functions used in the program
     These detect the face, and predict the location of the facial landmarks
 
     Parameters
